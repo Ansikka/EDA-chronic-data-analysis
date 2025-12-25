@@ -1,4 +1,5 @@
 Exploratory Data Analysis (EDA) – Chronic Kidney Disease Dataset
+
 📌 Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a Chronic Kidney Disease (CKD) dataset to understand the underlying structure of the data, identify important patterns, handle missing values, and analyze key medical attributes related to kidney health. The insights derived from this analysis can support early diagnosis and serve as a foundation for machine learning models.
@@ -86,6 +87,7 @@ CKD patients exhibit noticeable differences in blood-related parameters
 📁 Project Structure
 ├── EDA_chronic_data.ipynb
 ├── README.md
+
 🚀 Future Scope
 
 Feature engineering and selection
@@ -99,7 +101,5 @@ Deployment as a web-based health screening tool
 🤝 Contribution
 
 Contributions are welcome! Feel free to fork the repository, raise issues, or submit pull requests.
-
-📜 License
 
 This project is for educational and research purposes.
