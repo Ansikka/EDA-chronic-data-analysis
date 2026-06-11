@@ -95,11 +95,3 @@ Feature engineering and selection
 Building machine learning models for CKD prediction
 
 Model evaluation and optimization
-
-Deployment as a web-based health screening tool
-
-🤝 Contribution
-
-Contributions are welcome! Feel free to fork the repository, raise issues, or submit pull requests.
-
-This project is for educational and research purposes.
