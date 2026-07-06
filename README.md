@@ -19,20 +19,35 @@ Generate meaningful insights to support healthcare decision-making.
 The dataset contains patient medical records with attributes such as:
 
 Age
+
 Blood Pressure
+
 Specific Gravity
+
 Albumin
+
 Sugar
+
 Blood Glucose Random
+
 Blood Urea
+
 Serum Creatinine
+
 Hemoglobin
+
 Packed Cell Volume
+
 White Blood Cell Count
+
 Red Blood Cell Count
+
 Hypertension
+
 Diabetes Mellitus
+
 Anemia
+
 Target Variable: Chronic Kidney Disease (CKD / Not CKD)
 
 
@@ -46,7 +61,7 @@ Jupyter Notebook
 
 
 📈 Analysis Performed
-
+##
 Data loading and understanding
 Missing value treatment
 Data type corrections
