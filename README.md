@@ -48,8 +48,8 @@ Anemia
 
 Target Variable: Chronic Kidney Disease (CKD / Not CKD)
 
-🛠️ Technologies Used
-##
+## 🛠️ Technologies Used
+
 Python
 
 Pandas
@@ -63,8 +63,8 @@ Seaborn
 Jupyter Notebook
 
 
-📈 Analysis Performed
-##
+## 📈 Analysis Performed
+
 Data loading and understanding
 Missing value treatment
 Data type corrections
@@ -74,8 +74,8 @@ Data validation and quality improvement
 Insight generation from patient health records
 
 
-🔍 Key Insights
-##
+## 🔍 Key Insights
+
 Missing values and inconsistent records were identified and treated to improve dataset reliability.
 Clinical indicators such as serum creatinine, blood urea, and hemoglobin showed significant variation among patients.
 Data preprocessing improved the overall quality of the dataset for reliable healthcare analysis and future predictive modeling.
