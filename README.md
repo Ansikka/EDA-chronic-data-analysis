@@ -81,8 +81,8 @@ Clinical indicators such as serum creatinine, blood urea, and hemoglobin showed 
 Data preprocessing improved the overall quality of the dataset for reliable healthcare analysis and future predictive modeling.
 
 
-📁 Project Structure
-##
+## 📁 Project Structure
+
 ├── Chronic_Kidney_Disease_Analysis.ipynb
 
 ├── README.md
